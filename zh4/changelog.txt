@@ -1,0 +1,379 @@
+1.58 - January 5, 2023
+*Updated game engine.
+*Fix bugs.
+*Fix asset download issues.
+--------------------
+1.57 - June 12, 2020
+*Updated game server
+--------------------
+1.56 - June 17, 2019
+*New: The power of "The Skull" badge is now unlocked (Premium Membership Content)
+*Updated game engine to latest version
+--------------------
+1.55 - April 30, 2019
+*New: The power of "The Lion" badge is now unlocked (Premium Membership Content)
+*New: The power of "The Drake" badge is now unlocked (Premium Membership Content)
+*Updated game engine to latest version
+*Fixed various bugs and improve game stability
+--------------------
+1.53 - March 5, 2019
+*New: The power of "The Crab" badge is now unlocked (Premium Membership Content)
+*Updated game engine to latest version
+--------------------
+1.52 - February 20, 2019
+*New: Disable contextual ADs for Premium Members
+*Updated game engine to latest version
+*Fixed various bugs and improve game stability
+--------------------
+1.51 - February 8, 2019
+*New: The power of "The Crow" badge is now unlocked (Premium Membership Content)
+*Updated game engine to latest version
+*Fixed various bugs and improve game stability
+--------------------
+1.50 - January 2, 2019
+*New: The power of "The Boar" badge is now unlocked (Premium Membership Content)
+*Updated game engine to latest version
+*Updated and reduced game package size
+*Updated and optimised the game blood fx
+*Fixed various bugs after upgrading game engine
+--------------------
+1.49 - December 3, 2018
+*New: The power of "The Helm" badge is now unlocked (Premium Membership Content)
+*Updated game engine to latest version
+*Updated active development message for new players
+--------------------
+1.48 - November 5, 2018
+*New: The power of "The Scarab" badge is now unlocked (Premium Membership Content)
+*Updated game engine to latest version
+*Fixed bug with flamethrower not dealing damages to zombies
+*Fixed and adjusted graphical setting for better compatibilities across devices
+--------------------
+1.47 - October 10, 2018
+*New weapon: PPSH-41
+*New membership programmes and benefits
+*New collectible badge system for members
+*Updated game engine to latest version
+--------------------
+1.46 - October 4, 2018
+*New weapon: BAR
+*New blood splatters and gore fx
+*Updated blueprint to not drop after they are fully unlocked from loot boxes
+*Updated game engine to latest version
+*Fixed name bug with Sturmgewehr 44 blueprint
+--------------------
+1.45 - September 27, 2018
+*New weapon: Sturmgewehr 44
+*New daily supply crate system
+*New weapon blueprint system for new guns
+*New ammo box as alternative to get ammo for guns
+*Updated game engine to latest version
+--------------------
+1.44 - September 20, 2018
+*New weapon: FG42
+*Updated game engine to latest version
+*Fixed bug with weapons malfunctioning when targeting floor surfaces for some maps
+--------------------
+1.43 - September 13, 2018
+*New weapon: Trench Gun
+*Updated and reduced game download size
+*Updated game engine to latest version
+*Fixed some visual quality problem with some weapons
+*Fixed various minor bugs
+*Fixed bug with xbow arrow not appearing correctly when shot onto surfaces
+--------------------
+1.42 - September 6, 2018
+*New Gun! Luger
+*New Enemy! Pistol Synth
+*Updated resources server, in-game download will be alot faster now
+*Updated game engine to latest version
+*Updated and reduced game download size
+--------------------
+1.41 - August 30, 2018
+*New Gun! M1 Garand
+*Updated and optimised code : game run slightly faster now
+--------------------
+1.40 - August 23, 2018
+*New Gun! Tommy Gun
+*Updated game engine to latest version
+*Fixed visual bug with dissolve smoke
+--------------------
+1.39 - August 16, 2018
+*New Gun! Panzershreck
+*New Enemy! Spider
+*Updated game engine to latest version
+--------------------
+1.38 - August 2, 2018
+*New Gun! Scout
+*Updated game engine to latest version
+--------------------
+1.37 - July 27, 2018
+*New Gun! F90
+*New map in super arcade mode! ZH3 City Square
+--------------------
+1.36 - July 19, 2018
+*New Gun! Striker
+*New Map in super arcade mode! ZH3 Street Apartment
+*Updated game engine to latest version
+*Fixed missing resource bug with City Ruin levels
+*Fixed various visual flickering issues
+--------------------
+1.35 - July 12, 2018
+*New Gun! Glock
+*New Map in super arcade mode! ZH2 City Ruin
+*Updated game engine to more recent version
+*Fixed bug with pathfinding issue where zombies get stuck
+--------------------
+1.34 - July 5, 2018
+*New Gun! AR-15
+*New Map in super arcade mode! ZH2 Train Station
+--------------------
+1.33 - June 28, 2018
+*New Gun! Model-500 Shotgun
+*New Map in super arcade mode! ZH2 Warehouse
+*New Zombies! 3 of them for the new map
+*Updated and optimised existing 3D zombie models
+*Updated some guns to look better
+*Updated game engine to latest version
+--------------------
+1.32 - June 21, 2018
+*New Super Arcade game mode! Free map selection + more levels
+*New weapon! X-Bow
+*Updated game engine to latest version
+*Updated various plugins to improve game stability
+*Fixed bug with skill menu back button navigating incorrectly
+*Fixed various issues and adjusted volume for some sound fxs
+--------------------
+1.31 - June 14, 2018
+*New gun! Desert Eagle
+*Updated game engine to latest version
+*Updated and reduce runtime memory footprint, improving game stability
+*Updated game scripting backend, game should run faster now
+*Update and optimise various game code, game should run faster now
+*Updated plugins to improved game stability
+--------------------
+1.30 - June 7, 2018
+*New weapon! AKMS
+*Updated and optimised the game - game run faster now
+*Updated and optimised some zombie models
+*Updated Repeating Rifle to look better
+*Fixed bug with ability to fire weapon while switching
+--------------------
+1.29 - May 31, 2018
+*New weapon! Lever-action Repeating Rifle
+--------------------
+1.28 - May 24, 2018
+*New weapon! PDR
+*New map! Industrial Building
+*New 16 more levels added
+*Fixed bug with incorrect level numbering
+--------------------
+1.27 - May 17, 2018
+*New weapon! M17 Replica
+--------------------
+1.26 - May 11, 2018
+*New weapon! Revolver
+*Updated and improved game performance to adjust to game engine update
+*Updated game engine to the latest version
+--------------------
+1.25 - May 3, 2018
+*New bolt-action sniper rifle by popular demand! Karabiner 98k
+*Updated higher level shotguns to deal more damage
+*Updated SCAR to deal more damage
+--------------------
+1.24 - April 26, 2018
+*New weapons! Vector, Sawn-Off, QBU-10
+*New spread shot for all shotguns
+*New bullet based reload sequence for some shotgun, overall reload speed remain unchanged
+*Updated and balance game weapon stats because of new weapons
+--------------------
+1.23 - April 19, 2018
+*New weapons! P250, SAP6-Replica, SCAR
+*New bullet trace fx for most guns
+*New headshot sound fx
+*Updated muzzle fire size to look visually smaller for most guns
+*Updated game UI with various adjustments
+*Updated adventure mode control scheme to be more consistent with standard mobile fps games
+*Updated tutorial for adventure mode to be accurate with new control scheme
+*Updated adventure mode and endless mode to be unlocked only after reaching rank level 5 and 10 respectively
+*Fixed a bug with gun firing animation not in sync with actual bullet fired
+*Fixed a bug with sniper scope blocking in-game UI controls
+*Fixed a bug in which gun bullet shells are not appearing on screen when firing guns
+--------------------
+1.22 - April 12, 2018
+*New help menu provides controls and basic game information
+*New item pick-ups now included in adventure mode : ammo, health, armor, medkit, grenades
+*New directional guide to objectives in adventure mode
+*Updated exit game interaction context in adventure mode to be more obvious
+--------------------
+1.21 - April 5, 2018
+*New game mode : Adventure mode with free movement
+*Updated endless mode difficulty increase over time to be slower
+*Fixed various minor bugs
+--------------------
+1.20 - March 22, 2018
+*New feature : Melee Combat
+*Updated explosion physics to be more forceful
+*Fixed bug with video quest task, counter should increase appropriately now
+--------------------
+1.19 - March 15, 2018
+*New feature : Daily Quests
+--------------------
+1.18 - March 8, 2018
+*New feature : achievements
+*Updated game engine to latest version
+*Fixed engine-related bugs with crash when loading
+--------------------
+1.17 - March 1, 2018
+*New map area for endless mode : plane crash site
+*New map area for endless mode : hospital
+--------------------
+1.16 - February 23, 2018
+*New endless mode : city ruin
+*Updated and improved game loading performance, game levels should load faster now
+*Updated game engine to latest version
+*Fixed engine-related bugs with crash site map
+--------------------
+1.15 - February 14, 2018
+*Fixed a bug causing game to crash when attempting to load new levels
+--------------------
+1.14 - February 13, 2018
+*Updated and improved game performance, game run more faster now
+*Fixed difficulty level bugs for new levels
+--------------------
+1.13 - February 8, 2018
+*New map area : plane crash site
+*New zombies, 9 different zombies in plane crash site
+*New game engine beta support for downloading remote game assets
+*Updated and made it easier for grenade to be thrown at zombies
+*Updated share screenshot as share replay replacement
+*Removed share replay feature, game will run much faster now
+--------------------
+1.12 - January 19, 2018
+*New share replay feature
+*New announcements and rewards system installed
+*New upgrade progress UI for weapons
+*New improved zombie dissolve smoke fx
+*New game version upgrade UI
+*Updated player healthbar UI to decrease gradually when taking damage
+*Updated and reduced player camera rotation speed for auto movement
+*Updated level design data
+*Updated bat enemy, two different speed
+*Updated daily rewards to show automatically
+*Updated and improved game performance, game run more faster now
+*Updated sponsor us button to gray out when no content is available
+*Fixed various bugs
+*Removed UI scroll animation in level select
+--------------------
+1.11 - January 4, 2018
+*New sniper scope zoom in visual
+*New sponsor us button on main menu
+*Updated gun shots to have more bullet force, shooting experience should feel better now
+*Updated some text for main menu UI
+*Updated and improve ground graphic for industrial area map
+*Updated game so that weapon switch will be remembered when level is restarted or completed
+*Updated newly unlocked weapon to contain one free magazine
+*Updated google play service to latest version
+*Fixed game performance issue with physics
+*Fixed a plugin crash issue with push notification
+*Fixed graphic glitch with rank up UI
+*Fixed bugs with secondary having to reload at start of game
+*Fixed M202 to shoot rockets more accurately
+*Fixed unclickable area on diamond shop UI
+--------------------
+1.10 - December 29, 2017
+*New level design for all levels, more challenging now
+*Updated and improved game performance, game run more faster now
+*Updated game engine to latest version
+*Updated weapon select UI code so that weapon preview will not switch to equipped weapon when navigating between primary and secondary weapon panel
+*Fixed bugs with bombs not damaging zombies
+*Fixed bugs with stuck weapon animations after using grenades
+--------------------
+1.09 - December 15, 2017
+*New weapon zoom function for all weapons
+*New local notification for daily reward
+*Updated daily reward, should now be claimable whenever a new day start
+*Updated zombies spawning to prevent animations from syncing up
+*Updated google play services to latest version
+*Fixed bugs with sniper zoom not zooming in properly
+*Fixed bugs with rocket projectiles appearing wrongly on screen
+*Fixed bugs with bats not being properly damaged by explosion splash damage
+*Fixed bugs with bats not being targetted with auto-aim ability
+*Fixed bugs with zombies rigidbody and inability to hit zombies sometimes
+*Fixed a memory issue with zombie death smoke fx
+--------------------
+1.08 - December 11, 2017
+*Fixed a possible crash on some devices
+--------------------
+1.07 - December 7, 2017
+*Updated and reduced package size
+*Updated and improved the game data structure
+*Fixed a lighting issue with the hospital map on some devices
+*Fixed a possible crash on some devices
+--------------------
+1.06 - December 1, 2017
+*New rocket models and smoke trail fx
+*Fixed a graphical issue with the hospital map on some devices
+--------------------
+1.05 - November 28, 2017
+*New free gifts for players to get diamonds
+*New daily rewards
+*New and more ways to get free diamonds
+*Updated active skill visual effect
+*Updated medkit use visual effect
+*Updated player take damage visual effect
+*Fixed bugs with weapon not reloading automatically
+*Fixed some general coding bugs
+*Fixed some UI bugs
+--------------------
+1.04 - November 24, 2017
+*New camera shake effect for explosion
+*New bullet hit effect when shooting wall or ground
+*New review the game panel
+*Updated and improved hospital map scene aesthetics
+*Updated zombie dissolve smoke color
+*Updated game win continue button function
+*Updated main menu with more 3D aesthetics
+*Updated weapon sprites to look sharp
+*Updated weapon select UI to give more numerical info
+*Updated double reward UI with animations
+*Fixed bugs with enemy health bar positioning
+*Fixed bugs with ability to shoot zombies blocked by wall
+*Fixed bugs with double reward function
+*Fixed bugs with loading screen UI
+*Removed weapon ready animation when switching weapons
+--------------------
+1.03 - November 15, 2017
+*New weapon M240
+*New weapon Grenade Launcher
+*New weapon AWP
+*New weapon Mini-gun
+*New weapon Flamethrower
+*New weapon Plasma
+*New weapon M202
+*New weapon Laser
+*New weapon RPG
+*New playable levels (12 more)
+*Updated weapon preview with better looking images
+*Updated auto-purchase ammo
+*Updated weapons stats
+*Fixed some map design bugs
+*Fixed bug with in-game buy ammo displaying wrong price
+*Fixed bug with wrong price when auto purchasing grenade
+*Fixed bug with rank system
+--------------------
+1.02 - November 9, 2017
+*New shadow added to zombie
+*New dissolve smoke effect when zombie dies
+*New grenade model
+*New grenade throw animation
+*Updated UI with better text
+*Updated App Icon
+*Fixed some map design bugs
+*Fixed some UI visual bugs
+*Fixed visual bugs grenade trail
+*Fixed audio memory bugs
+--------------------
+1.01 - November 7, 2017
+*New playable levels (30 playable levels in total)
+*New Hospital area map
+*Fixed bugs
