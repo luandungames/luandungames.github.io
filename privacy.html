@@ -1,0 +1,672 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Luandun Games Pte. Ltd. Privacy Policy</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #000;
+	color:#ddd;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color:#ddd;
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="25e5f2ca-5dd0-497a-ad4c-9baa5ca10ce8" class="page serif"><header><h1 class="page-title"></h1></header><div class="page-body"><figure id="1b0577fd-fafc-4000-94be-84f69b7a9fd5" class="image" style="text-align:left"><a href="Untitled%2025e5f2ca5dd0497aad4c9baa5ca10ce8/Untitled.png"><img style="width:354px" src="privacy/logo.png"/></a></figure><h1 id="1c57befc-358f-4405-9562-987958b1deba" class="">Privacy Policy</h1><p id="1ed1bb7e-80cf-4e28-9d5b-8068b2fad0ba" class=""><strong>Luandun Games Pte. Ltd. Privacy Policy</strong></p><p id="ef7653c8-08d4-49cd-80f7-714c8e1e6a2d" class="">This Privacy Policy explains how information about you is collected, used, and disclosed by Luandun Games Pte. Ltd. and any parent or subsidiary (collectively, “<strong>Luandun Games</strong>“) when you access or use Luandun Games’ websites, mobile applications, and other products and services (collectively, the “<strong>Services</strong>“) or otherwise interact with Luandun Games.</p><h1 id="f0fe8490-d4b9-4bef-9086-ead836744d0a" class="">Collection of Information</h1><p id="3f920a49-97d7-4cb1-96db-a9b3655c35e8" class=""><strong>Information You Provide to Luandun Games.</strong> Luandun Games collects information you provide directly to it, such as if you register for a Service; participate in Luandun Games contests and special events; request technical support; or send Luandun Games an email or otherwise interact with it. The types of information Luandun Games may collect directly from you include your name, e-mail address, and phone number.</p><p id="ee979b01-f102-46f8-a76b-349faea8a3f1" class=""><strong></strong><strong>Information </strong><strong>Luandun Games</strong> <strong>Collects Automatically.</strong> When you access the Services, Luandun Games automatically collects certain information, including:</p><ul id="0df98fbd-febc-42d0-b2ea-75a89fa1a9b0" class="bulleted-list"><li style="list-style-type:disc"><strong>Log Information: </strong>Luandun Games logs information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to its websites.</li></ul><ul id="446fc355-a9c4-46dd-a90c-a45c434de8e4" class="bulleted-list"><li style="list-style-type:disc"><strong>Device Information:</strong> When you access or use the Services, Luandun Games collects information about (i) device properties, including, but not limited to Media Access Control (“MAC”) address, unique device identifier (“UDID”), or other device identifiers; (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data such as zip code, area code and location; and (v) game score and achievements. Luandun Games may also collect other data as reasonably required by Luandun Games to provide, maintain and improve the Services.</li></ul><p id="9df7cbc6-e0cd-4f7e-9447-ecdb43fed3f5" class=""><strong>Information Collected by Cookies and Other Tracking Technologies:</strong> Luandun Games may use cookies, web beacons, and other tracking technologies to collect information about you and your interaction with the Services. We use this information in one or more of the ways described in the “Use of Information” section below. Luandun Games may also collect information using web beacons or other tracking technologies to help deliver cookies, count visits, and understand usage and campaign effectiveness. For more information about cookies, please see “Your Privacy Choices” below.</p><p id="2198f48f-062d-4f36-8310-5b27d43ece09" class=""><strong>Information </strong><strong>Luandun Games</strong> <strong>Collects from Other Sources.</strong> Luandun Games may receive information about you from other sources and combine or link that with information it has about you. For example, when you authorize Luandun Games to connect to certain third-party social networking sites, Luandun Games will access information about you from those sites, such as your name, account information, friend lists, and any other information you make publicly available. Luandun Games collects this information in accordance with the privacy policies and authorization procedures determined by third-party social networking sites in addition to the privacy settings you establish with those sites. For more information, please refer directly to the privacy policies of the relevant third-party social networking sites.</p><h1 id="aa47aa77-2941-4fbc-b93b-618d90f6405e" class=""><strong>Use Of Information</strong></h1><p id="f3b8a1e9-aa7c-4f57-b80f-ec7d3df63282" class="">Luandun Games  may use the information it collects about you for a variety of purposes, including to:</p><ul id="68ca54d1-ef0a-4f0b-b577-82d8d70141bd" class="bulleted-list"><li style="list-style-type:disc">Provide, maintain, and improve the Services and deliver the information and support you request, including technical notices, security alerts, purchase confirmations, and support and administrative messages;</li></ul><ul id="8a3e95d0-2670-4eb8-97ea-c7fc02a7b526" class="bulleted-list"><li style="list-style-type:disc">Personalize the Services and provide advertisements, content, or features that are targeted toward your interests;</li></ul><ul id="794a1e7f-b8f1-400a-9fb6-6d9d8c9edd8c" class="bulleted-list"><li style="list-style-type:disc">Send you news and information about the Services and communicate with you about products, services, contests, promotions, incentives, and rewards offered by Luandun Games and select partners;</li></ul><ul id="017f4f85-b20c-4ddc-979d-8831673a7963" class="bulleted-list"><li style="list-style-type:disc">Track and analyze trends and usage in connection with the Services; and</li></ul><ul id="a230bda4-c3ca-45da-a56f-f45a8546673b" class="bulleted-list"><li style="list-style-type:disc">Process and deliver contest and promotion entries and rewards.</li></ul><p id="ed672717-196e-4b82-ada8-d8f2c61cc50d" class="">Luandun Games  is based in the Singapore and the information we collect is governed by Singapore law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the Singapore and other countries.</p><h1 id="8d5c06ca-f0e2-419b-bb50-e49e172a6f70" class=""><strong>Sharing Of Information</strong></h1><p id="8a417eac-22ce-4079-97f6-5c61edee62e7" class="">Luandun Games  may share personal information about you as follows:</p><ul id="f0bcb33d-e318-441b-ae21-4b6a54bb2e27" class="bulleted-list"><li style="list-style-type:disc">With third party vendors, consultants and other service providers who work on Luandun Games ’ behalf and need access to such information;</li></ul><ul id="7b548e20-df14-41a0-97ae-2fed1e188a29" class="bulleted-list"><li style="list-style-type:disc">With other players (for example, in connection with leaderboards);</li></ul><ul id="71231981-e7aa-4755-b24f-ce661f65f05f" class="bulleted-list"><li style="list-style-type:disc">In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of Luandun Games ’ business by another company;</li></ul><ul id="55dada33-c2a7-4f0c-9a5f-83b8a25cc2c6" class="bulleted-list"><li style="list-style-type:disc">If Luandun Games has a good faith belief that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request; to enforce Luandun Games’ agreements, policies and Terms of Service; and to protect Luandun Games, its users and others from harm; and</li></ul><ul id="dcb5c446-733d-462e-9eca-e6ca45f6ee32" class="bulleted-list"><li style="list-style-type:disc">With your consent or at your direction.</li></ul><p id="c08b1083-ef35-481e-83f7-c7cb28f43ade" class="">Luandun Games may also share aggregated or non-personally identifiable information, which cannot reasonably be used to identify you.</p><h1 id="52a8667b-3596-42f0-b63d-1568c92d451c" class=""><strong>Children</strong></h1><p id="72e89b3f-da02-4433-8ef7-c482829767de" class="">Our Services are designed for users who are 13 or older. If you are a parent or guardian of a child under 13 and believe that your child might have provided personal information to Luandun Games , please contact us at luandungames@gmail.com. If we become aware that a child under 13 has provided us with personal information, we take steps to delete such information.</p><h1 id="5c0c38a7-db60-4ec8-8cd7-f29798e3de9e" class="">Security</h1><p id="9b04f80b-76b2-4944-99cd-d4429bf2ea5b" class="">Luandun Games takes reasonable measures, including administrative, technical, and physical safeguards to help protect personal information from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction.</p><h1 id="b082fe77-3bd1-4edf-b60d-efdddaa18da5" class="">Third Party Analytics and Advertising</h1><p id="1eaf6b95-5e38-4b47-95e5-ea94eebda90b" class="">Luandun Games allows third parties to provide analytics services, to serve advertisements through the Services, and to collect data to use for purposes of serving ads targeted to your interests. These third parties may use cookies, web beacons, and other technologies to collect information about your use of the Services and other mobile applications, including your IP address, device identifiers, MAC address, software and hardware information, browser information, Internet and online usage information, and in-game information. This Privacy Policy does not apply to, and Luandun Games is not responsible for, third party cookies, web beacons, or other tracking technologies and Luandun Games encourages you to check the privacy policies of these third parties to learn more about their privacy practices.</p><h1 id="ddead493-9240-4b66-a54e-c517723628f7" class=""><strong>Your Privacy Choices</strong></h1><p id="76b595f4-e8b5-4f49-bf31-184f15f2488d" class=""><strong>Information About You.</strong> If you wish to have the information Luandun Games collects about you updated or deleted, please contact  luandungames@gmail.com, but note that Luandun Games may retain information about you for legitimate business purposes or as required by law.</p><p id="cb09577a-1d30-4bfd-8a8b-a4638ac057cc" class=""><strong>Location Information.</strong> You have the ability to turn location-based services on and off by adjusting the settings of your mobile device or by following the standard uninstall process and removing all Luandun Games applications from your mobile device.</p><p id="70335601-3891-4390-9088-d07b3e490a13" class=""><strong>Cookies.</strong> Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject cookies; however, the Services may not function properly if you do so.</p><p id="e7ebc895-dcb5-4e8e-9c42-f08a83241b31" class=""><strong>Advertising Opt Out.</strong> Most mobile devices provide the ability to opt out of the collection and use of information from your device for purposes of serving ads targeted to your interests. For more information, and to exercise these choices, consult the settings on your device.</p><h1 id="99f66e5c-b7c8-4428-956a-c8093740119f" class=""><strong>Changes To The Privacy Policy</strong></h1><p id="a1955129-3c0a-4da7-959d-d346fa584120" class="">Luandun Games may change this Privacy Policy at any time. If Luandun Games makes changes, it will notify you by revising the “Last Updated” date above and, in some cases, it may provide you with more prominent notice (such as adding a statement to its homepage or sending you a push notification or email). Luandun Games encourages you to review this Privacy Policy frequently to stay informed about its information practices and your privacy choices.</p><h1 id="6607a171-7ddb-4a0f-855e-9a2d737f74e3" class="">Contact Information</h1><p id="9eb0cb04-c00d-487b-b0ed-e5f1c084cac2" class="">If you have questions, comments, or concerns about this Privacy Policy or Luandun Games’ privacy practices, please contact us at luandungames@gmail.com.</p><p id="2c55ca6d-b525-4fd2-99bd-3829063e4a4a" class="">
+</p></div></article></body></html>
