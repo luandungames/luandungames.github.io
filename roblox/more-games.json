@@ -1,13 +1,13 @@
 [
-    {
-        "displayTitle": "Modern Flat Tycoon",
-        "placeID": 14186791226,
-        "imageURL": "rbxassetid://14219754700"
-    },
 	{
         "displayTitle": "MegaMall Tycoon",
         "placeID": 14048727209,
         "imageURL": "rbxassetid://14106127726"
+    },
+    {
+        "displayTitle": "Modern Flat Tycoon",
+        "placeID": 14186791226,
+        "imageURL": "rbxassetid://14219754700"
     },
     {
         "displayTitle": "Theme Park Tycoon",
