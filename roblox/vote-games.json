@@ -1,0 +1,28 @@
+{
+    "config": {
+        "gameToShow": 5
+    },
+    "gameList": [
+        {
+            "displayTitle": "Among Us"
+        },
+        {
+            "displayTitle": "Theme Park Tycoon",
+            "gaIconID": "Icon_Theme_Park_aaaaaa",
+            "imageURL": "rbxassetid://14106129544"
+        },
+        {
+            "displayTitle": "WorkSpace Tycoon",
+            "gaIconID": "Icon_WorkSpace_bbbbbbb",
+            "imageURL": "rbxassetid://14633004220"
+        },
+        {
+            "displayTitle": "Smart School Tycoon"
+        },
+        {
+            "displayTitle": "Bank Empire Tycoon",
+            "gaIconID": "Icon_bank_empire_cccccc",
+            "imageURL": "rbxassetid://14479485767"
+        }
+    ]
+}

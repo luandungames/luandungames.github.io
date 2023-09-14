@@ -1,0 +1,65 @@
+{
+    "config": {
+        "gameToShow": 5,
+        "showAllGameButton": true,
+        "showVoteNewGameButton": true
+    },
+    "gameList": [
+        {
+            "gaUniqueGameName": "WorkSpace Tycoon",
+            "gaIconID": "Icon_WorkSpace_33333",
+            "displayTitle": "WorkSpace Tycoon",
+            "placeID": 14621015455,
+            "imageURL": "rbxassetid://14633004220"
+        },
+        {
+            "gaUniqueGameName": "Smart School Tycoon",
+            "gaIconID": "Icon_Smart_School_44444",
+            "displayTitle": "Smart School Tycoon",
+            "placeID": 14528794565,
+            "imageURL": "rbxassetid://14559034225"
+        },
+        {
+            "gaUniqueGameName": "Bank Empire Tycoon",
+            "gaIconID": "Icon_Bank_Empire_55555",
+            "displayTitle": "Bank Empire Tycoon",
+            "placeID": 14452559648,
+            "imageURL": "rbxassetid://14479485767"
+        },
+        {
+            "gaUniqueGameName": "MegaMall Tycoon",
+            "gaIconID": "Icon_MegaMall_66666",
+            "displayTitle": "MegaMall Tycoon",
+            "placeID": 14048727209,
+            "imageURL": "rbxassetid://14106127726"
+        },
+        {
+            "gaUniqueGameName": "Modern Flat Tycoon",
+            "gaIconID": "Icon_Modern_Flat_777777",
+            "displayTitle": "Modern Flat Tycoon",
+            "placeID": 14186791226,
+            "imageURL": "rbxassetid://14219754700"
+        },
+        {
+            "gaUniqueGameName": "Theme Park Tycoon",
+            "gaIconID": "Icon_Theme_Park_222222",
+            "displayTitle": "Theme Park Tycoon",
+            "placeID": 7093781698,
+            "imageURL": "rbxassetid://14106129544"
+        },
+        {
+            "gaUniqueGameName": "Super Speed Tycoon",
+            "gaIconID": "Icon_Super_Speed_888888",
+            "displayTitle": "Super Speed Tycoon",
+            "placeID": 8226526459,
+            "imageURL": "rbxassetid://14106129087"
+        },
+        {
+            "gaUniqueGameName": "Among Us",
+            "gaIconID": "Icon_Among_Us_11111",
+            "displayTitle": "Among Us",
+            "placeID": 5994750409,
+            "imageURL": "rbxassetid://14106127921"
+        }
+    ]
+}
