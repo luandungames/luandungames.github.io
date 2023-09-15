@@ -4,25 +4,127 @@
     },
     "gameList": [
         {
-            "displayTitle": "Among Us"
+            "displayTitle": "Disney Land Tycoon"
         },
         {
-            "displayTitle": "Theme Park Tycoon",
-            "gaIconID": "Icon_Theme_Park_aaaaaa",
-            "imageURL": "rbxassetid://14106129544"
+            "displayTitle": "Zoo Tycoon"
         },
         {
-            "displayTitle": "WorkSpace Tycoon",
-            "gaIconID": "Icon_WorkSpace_bbbbbbb",
-            "imageURL": "rbxassetid://14633004220"
+            "displayTitle": "Theme Park Tycoon"
         },
         {
-            "displayTitle": "Smart School Tycoon"
+            "displayTitle": "Spaceship Tycoon"
         },
         {
-            "displayTitle": "Bank Empire Tycoon",
-            "gaIconID": "Icon_bank_empire_cccccc",
-            "imageURL": "rbxassetid://14479485767"
+            "displayTitle": "City Life Tycoon"
+        },
+        {
+            "displayTitle": "School Life Tycoon"
+        },
+        {
+            "displayTitle": "Water Park Tycoon"
+        },
+        {
+            "displayTitle": "Dinosaur Zoo Tycoon"
+        },
+        {
+            "displayTitle": "UFO Tycoon"
+        },
+        {
+            "displayTitle": "District 51 Tycoon"
+        },
+        {
+            "displayTitle": "Farm Tycoon"
+        },
+        {
+            "displayTitle": "Egypt Temple Tycoon"
+        },
+        {
+            "displayTitle": "Filming Tycoon"
+        },
+        {
+            "displayTitle": "Super Hero Tycoon"
+        },
+        {
+            "displayTitle": "Mall Tycoon"
+        },
+        {
+            "displayTitle": "Pyramid Tycoon"
+        },
+        {
+            "displayTitle": "Anime Tycoon"
+        },
+        {
+            "displayTitle": "Prison Tycoon"
+        },
+        {
+            "displayTitle": "Youtuber Tycoon"
+        },
+        {
+            "displayTitle": "Tiktok Tycoon"
+        },
+        {
+            "displayTitle": "My Dragon Tycoon"
+        },
+        {
+            "displayTitle": "Game Company Tycoon"
+        },
+        {
+            "displayTitle": "Airport Island Tycoon"
+        },
+        {
+            "displayTitle": "Among Us Tycoon"
+        },
+        {
+            "displayTitle": "Ice Cream Tycoon"
+        },
+        {
+            "displayTitle": "Doughnut Tycoon"
+        },
+        {
+            "displayTitle": "Candy Tycoon"
+        },
+        {
+            "displayTitle": "Hospital Tycoon"
+        },
+        {
+            "displayTitle": "Pet Tycoon"
+        },
+        {
+            "displayTitle": "Apocalypse Tycoon"
+        },
+        {
+            "displayTitle": "Survival Tycoon"
+        },
+        {
+            "displayTitle": "Mining Tycoon"
+        },
+        {
+            "displayTitle": "Restaurant Tycoon"
+        },
+        {
+            "displayTitle": "Great Wall Tycoon"
+        },
+        {
+            "displayTitle": "Museum Tycoon"
+        },
+        {
+            "displayTitle": "Fantasy Land Tycoon"
+        },
+        {
+            "displayTitle": "Tropical Resort Tycoon"
+        },
+        {
+            "displayTitle": "Cruise Ship Tycoon"
+        },
+        {
+            "displayTitle": "Pirate Tycoon"
+        },
+        {
+            "displayTitle": "Star War Tycoon"
+        },
+        {
+            "displayTitle": "Roller Coasters Tycoon"
         }
     ]
 }
