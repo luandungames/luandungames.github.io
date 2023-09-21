@@ -1,6 +1,6 @@
 {
     "config": {
-        "gameToShow": 5,
+        "gameToShow": 3,
         "showAllGameButton": true,
         "showVoteNewGameButton": true
     },
@@ -10,7 +10,8 @@
             "gaIconID": "Icon_20230815003",
             "displayTitle": "WorkSpace Tycoon",
             "placeID": 14621015455,
-            "imageURL": "rbxassetid://14633004220"
+            "imageURL": "rbxassetid://14633004220",
+            "bringToTop": true
         },
         {
             "gaUniqueGameName": "Smart School Tycoon",
