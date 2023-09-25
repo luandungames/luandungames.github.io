@@ -4,127 +4,172 @@
     },
     "gameList": [
         {
+            "voteID": "vote_01_disney",
             "displayTitle": "Disney Land Tycoon"
         },
         {
+            "voteID": "vote_02_zoo",
             "displayTitle": "Zoo Tycoon"
         },
         {
+            "voteID": "vote_03_themePark",
             "displayTitle": "Theme Park Tycoon"
         },
         {
+            "voteID": "vote_04_spaceship",
             "displayTitle": "Spaceship Tycoon"
         },
         {
+            "voteID": "vote_05_cityLife",
             "displayTitle": "City Life Tycoon"
         },
         {
+            "voteID": "vote_06_schoolLife",
             "displayTitle": "School Life Tycoon"
         },
         {
+            "voteID": "vote_07_waterPark",
             "displayTitle": "Water Park Tycoon"
         },
         {
+            "voteID": "vote_08_dinosaurZoo",
             "displayTitle": "Dinosaur Zoo Tycoon"
         },
         {
+            "voteID": "vote_09_UFO",
             "displayTitle": "UFO Tycoon"
         },
         {
+            "voteID": "vote_10_district51",
             "displayTitle": "District 51 Tycoon"
         },
         {
+            "voteID": "vote_11_farm",
             "displayTitle": "Farm Tycoon"
         },
         {
+            "voteID": "vote_12_egyptTemple",
             "displayTitle": "Egypt Temple Tycoon"
         },
         {
+            "voteID": "vote_13_filming",
             "displayTitle": "Filming Tycoon"
         },
         {
+            "voteID": "vote_14_superHero",
             "displayTitle": "Super Hero Tycoon"
         },
         {
+            "voteID": "vote_15_mall",
             "displayTitle": "Mall Tycoon"
         },
         {
+            "voteID": "vote_16_pyramid",
             "displayTitle": "Pyramid Tycoon"
         },
         {
+            "voteID": "vote_17_anime",
             "displayTitle": "Anime Tycoon"
         },
         {
+            "voteID": "vote_18_prison",
             "displayTitle": "Prison Tycoon"
         },
         {
+            "voteID": "vote_19_youtuber",
             "displayTitle": "Youtuber Tycoon"
         },
         {
+            "voteID": "vote_20_tiktok",
             "displayTitle": "Tiktok Tycoon"
         },
         {
+            "voteID": "vote_21_dragon",
             "displayTitle": "My Dragon Tycoon"
         },
         {
+            "voteID": "vote_22_gameCompany",
             "displayTitle": "Game Company Tycoon"
         },
         {
+            "voteID": "vote_23_airport",
             "displayTitle": "Airport Island Tycoon"
         },
         {
+            "voteID": "vote_24_amongUs",
             "displayTitle": "Among Us Tycoon"
         },
         {
+            "voteID": "vote_25_iceCream",
             "displayTitle": "Ice Cream Tycoon"
         },
         {
+            "voteID": "vote_26_doughnut",
             "displayTitle": "Doughnut Tycoon"
         },
         {
+            "voteID": "vote_27_candy",
             "displayTitle": "Candy Tycoon"
         },
         {
+            "voteID": "vote_28_hospital",
             "displayTitle": "Hospital Tycoon"
         },
         {
+            "voteID": "vote_29_pet",
             "displayTitle": "Pet Tycoon"
         },
         {
+            "voteID": "vote_30_apoclypse",
             "displayTitle": "Apocalypse Tycoon"
         },
         {
+            "voteID": "vote_31_survival",
             "displayTitle": "Survival Tycoon"
         },
         {
+            "voteID": "vote_32_mining",
             "displayTitle": "Mining Tycoon"
         },
         {
+            "voteID": "vote_33_restaurant",
             "displayTitle": "Restaurant Tycoon"
         },
         {
+            "voteID": "vote_34_greatWall",
             "displayTitle": "Great Wall Tycoon"
         },
         {
+            "voteID": "vote_35_museum",
             "displayTitle": "Museum Tycoon"
         },
         {
+            "voteID": "vote_36_fantasy",
             "displayTitle": "Fantasy Land Tycoon"
         },
         {
+            "voteID": "vote_37_tropicalResort",
             "displayTitle": "Tropical Resort Tycoon"
         },
         {
+            "voteID": "vote_38_cruise",
             "displayTitle": "Cruise Ship Tycoon"
         },
         {
+            "voteID": "vote_39_pirate",
             "displayTitle": "Pirate Tycoon"
         },
         {
+            "voteID": "vote_40_starWar",
             "displayTitle": "Star War Tycoon"
         },
         {
+            "voteID": "vote_41_rollerCoasters",
             "displayTitle": "Roller Coasters Tycoon"
+        },
+        {
+            "voteID": "vote_42_mansion",
+            "displayTitle": "Mansion Tycoon"
         }
     ]
 }

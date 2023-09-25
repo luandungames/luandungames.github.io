@@ -6,7 +6,7 @@
     },
     "gameList": [
         {
-            "gaUniqueGameName": "WorkSpace Tycoon",
+            "projectID": "tycoon_08_office02",
             "gaIconID": "Icon_20230815003",
             "displayTitle": "WorkSpace Tycoon",
             "placeID": 14621015455,
@@ -14,49 +14,49 @@
             "bringToTop": true
         },
         {
-            "gaUniqueGameName": "Smart School Tycoon",
+            "projectID": "tycoon_05_school",
             "gaIconID": "Icon_20230815002",
             "displayTitle": "Smart School Tycoon",
             "placeID": 14528794565,
             "imageURL": "rbxassetid://14559034225"
         },
         {
-            "gaUniqueGameName": "Bank Empire Tycoon",
+            "projectID": "tycoon_07_bank",
             "gaIconID": "Icon_20230815001",
             "displayTitle": "Bank Empire Tycoon",
             "placeID": 14452559648,
             "imageURL": "rbxassetid://14479485767"
         },
         {
-            "gaUniqueGameName": "MegaMall Tycoon",
+            "projectID": "tycoon_02_mall",
             "gaIconID": "Icon_MegaMallTycoon",
             "displayTitle": "MegaMall Tycoon",
             "placeID": 14048727209,
             "imageURL": "rbxassetid://14106127726"
         },
         {
-            "gaUniqueGameName": "Modern Flat Tycoon",
+            "projectID": "tycoon_06_apartment",
             "gaIconID": "Icon_20230724003",
             "displayTitle": "Modern Flat Tycoon",
             "placeID": 14186791226,
             "imageURL": "rbxassetid://14219754700"
         },
         {
-            "gaUniqueGameName": "Theme Park Tycoon",
+            "projectID": "tycoon_01_themePark",
             "gaIconID": "Icon_ThemeParkTycoon",
             "displayTitle": "Theme Park Tycoon",
             "placeID": 7093781698,
             "imageURL": "rbxassetid://14106129544"
         },
         {
-            "gaUniqueGameName": "Super Speed Tycoon",
+            "projectID": "tycoon_00_superSpeed",
             "gaIconID": "Icon_SuperSpeedTycoon",
             "displayTitle": "Super Speed Tycoon",
             "placeID": 8226526459,
             "imageURL": "rbxassetid://14106129087"
         },
         {
-            "gaUniqueGameName": "Among Us",
+            "projectID": "hideAndSeek_01",
             "gaIconID": "Icon_AmongUs",
             "displayTitle": "Among Us",
             "placeID": 5994750409,
