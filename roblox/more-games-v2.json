@@ -11,7 +11,7 @@
             "displayTitle": "WorkSpace Tycoon",
             "placeID": 14621015455,
             "imageURL": "rbxassetid://14633004220",
-            "bringToTop": true
+            "bringToTop": false
         },
         {
             "gaUniqueGameName": "Smart School Tycoon",
@@ -32,7 +32,8 @@
             "gaIconID": "Icon_MegaMallTycoon",
             "displayTitle": "MegaMall Tycoon",
             "placeID": 14048727209,
-            "imageURL": "rbxassetid://14106127726"
+            "imageURL": "rbxassetid://14106127726",
+            "bringToTop": true
         },
         {
             "gaUniqueGameName": "Modern Flat Tycoon",
