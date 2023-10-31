@@ -6,6 +6,14 @@
     },
     "gameList": [
         {
+            "projectID": "tycoon_04_hospital",
+            "gaIconID": "Icon_20231031001",
+            "displayTitle": "Cure Hospital Tycoon",
+            "placeID": 15214877230,
+            "imageURL": "rbxassetid://15224747777",
+            "bringToTop": true
+        },
+        {
             "projectID": "tycoon_08_office02",
             "gaIconID": "Icon_20230815003",
             "displayTitle": "WorkSpace Tycoon",
