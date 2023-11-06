@@ -1,10 +1,18 @@
 {
     "config": {
-        "gameToShow": 3,
+        "gameToShow": 5,
         "showAllGameButton": true,
         "showVoteNewGameButton": true
     },
     "gameList": [
+        {
+            "projectID": "tycoon_12_greece",
+            "gaIconID": "Icon_20231103001",
+            "displayTitle": "Olympus Tycoon",
+            "placeID": 15232754254,
+            "imageURL": "rbxassetid://15282143458",
+            "bringToTop": true
+        },
         {
             "projectID": "tycoon_04_hospital",
             "gaIconID": "Icon_20231031001",
