@@ -6,12 +6,27 @@
     },
     "gameList": [
         {
+            "projectID": "tycoon_15_village",
+            "gaIconID": "Icon_20231106021",
+            "displayTitle": "Village Tycoon",
+            "placeID": 15359629483,
+            "imageURL": "rbxassetid://15368583150",
+            "bringToTop": true
+        },
+        {
+            "projectID": "tycoon_14_airport",
+            "gaIconID": "Icon_20231106013",
+            "displayTitle": "Airport City Tycoon",
+            "placeID": 15283782263,
+            "imageURL": "rbxassetid://15368580971",
+            "bringToTop": true
+        },
+        {
             "projectID": "tycoon_12_greece",
             "gaIconID": "Icon_20231103001",
             "displayTitle": "Olympus Tycoon",
             "placeID": 15232754254,
             "imageURL": "rbxassetid://15282143458",
-            "bringToTop": true
         },
         {
             "projectID": "tycoon_04_hospital",
@@ -19,7 +34,6 @@
             "displayTitle": "Cure Hospital Tycoon",
             "placeID": 15214877230,
             "imageURL": "rbxassetid://15224747777",
-            "bringToTop": true
         },
         {
             "projectID": "tycoon_08_office02",
@@ -27,7 +41,6 @@
             "displayTitle": "WorkSpace Tycoon",
             "placeID": 14621015455,
             "imageURL": "rbxassetid://14633004220",
-            "bringToTop": false
         },
         {
             "projectID": "tycoon_05_school",
