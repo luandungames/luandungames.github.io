@@ -6,6 +6,14 @@
     },
     "gameList": [
         {
+            "projectID": "tycoon_09_pirate",
+            "gaIconID": "Icon_20231106004",
+            "displayTitle": "Pirate Treasure Tycoon",
+            "placeID": 15375445592,
+            "imageURL": "rbxassetid://15409092020",
+            "bringToTop": true
+        },
+        {
             "projectID": "tycoon_15_village",
             "gaIconID": "Icon_20231106021",
             "displayTitle": "Village Tycoon",
