@@ -6,6 +6,14 @@
     },
     "gameList": [
         {
+            "projectID": "tycoon_11_military",
+            "gaIconID": "Icon_20231106011",
+            "displayTitle": "Military Fortress Tycoon",
+            "placeID": 15409545575,
+            "imageURL": "rbxassetid://15425795075",
+            "bringToTop": true
+        },
+        {
             "projectID": "tycoon_09_pirate",
             "gaIconID": "Icon_20231106004",
             "displayTitle": "Pirate Treasure Tycoon",
