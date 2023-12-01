@@ -6,6 +6,14 @@
     },
     "gameList": [
         {
+            "projectID": "tycoon_16_mall02",
+            "gaIconID": "Icon_20231106034",
+            "displayTitle": "MegaMall Tycoon 2",
+            "placeID": 15479520761,
+            "imageURL": "rbxassetid://15510218873",
+            "bringToTop": true
+        },
+        {
             "projectID": "tycoon_11_military",
             "gaIconID": "Icon_20231106011",
             "displayTitle": "Military Fortress Tycoon",
@@ -34,8 +42,7 @@
             "gaIconID": "Icon_20231106013",
             "displayTitle": "Airport City Tycoon",
             "placeID": 15283782263,
-            "imageURL": "rbxassetid://15368580971",
-            "bringToTop": true
+            "imageURL": "rbxassetid://15368580971"
         },
         {
             "projectID": "tycoon_12_greece",
