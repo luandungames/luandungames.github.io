@@ -14,28 +14,33 @@
             "bringToTop": true
         },
         {
+            "projectID": "tycoon_10_casino",
+            "gaIconID": "Icon_20231106006",
+            "displayTitle": "Casino Tycoon",
+            "placeID": 15556647659,
+            "imageURL": "rbxassetid://15558281352",
+            "bringToTop": true
+        },
+        {
             "projectID": "tycoon_11_military",
             "gaIconID": "Icon_20231106011",
             "displayTitle": "Military Fortress Tycoon",
             "placeID": 15409545575,
-            "imageURL": "rbxassetid://15425795075",
-            "bringToTop": true
+            "imageURL": "rbxassetid://15425795075"
         },
         {
             "projectID": "tycoon_09_pirate",
             "gaIconID": "Icon_20231106004",
             "displayTitle": "Pirate Treasure Tycoon",
             "placeID": 15375445592,
-            "imageURL": "rbxassetid://15409092020",
-            "bringToTop": true
+            "imageURL": "rbxassetid://15409092020"
         },
         {
             "projectID": "tycoon_15_village",
             "gaIconID": "Icon_20231106021",
             "displayTitle": "Village Tycoon",
             "placeID": 15359629483,
-            "imageURL": "rbxassetid://15368583150",
-            "bringToTop": true
+            "imageURL": "rbxassetid://15368583150"
         },
         {
             "projectID": "tycoon_14_airport",
