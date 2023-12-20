@@ -124,8 +124,9 @@
             "projectID": "simulator_02",
             "gaIconID": "Icon_JetboardRaceSimulator",
             "displayTitle": "Jetboard Race Simulator",
-            "placeID": 5416522207,
-            "imageURL": "rbxassetid://15680738202"
+            "placeID": 15680541011,
+            "imageURL": "rbxassetid://15680738202",
+            "bringToTop": true
         }
     ]
 }
