@@ -119,6 +119,13 @@
             "displayTitle": "Among Us",
             "placeID": 5994750409,
             "imageURL": "rbxassetid://14106127921"
+        },
+        {
+            "projectID": "simulator_02",
+            "gaIconID": "Icon_JetboardRaceSimulator",
+            "displayTitle": "Jetboard Race Simulator",
+            "placeID": 5416522207,
+            "imageURL": "rbxassetid://15680738202"
         }
     ]
 }
