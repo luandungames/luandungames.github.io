@@ -89,8 +89,7 @@
             "gaIconID": "Icon_MegaMallTycoon",
             "displayTitle": "MegaMall Tycoon",
             "placeID": 14048727209,
-            "imageURL": "rbxassetid://14106127726",
-            "bringToTop": true
+            "imageURL": "rbxassetid://14106127726"
         },
         {
             "projectID": "tycoon_06_apartment",
