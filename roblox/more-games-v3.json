@@ -11,7 +11,7 @@
             "displayTitle": "MegaMall Tycoon 2",
             "placeID": 15479520761,
             "imageURL": "rbxassetid://15510218873",
-            "bringToTop": true
+            "bringToTop": false
         },
         {
             "projectID": "tycoon_11_military",
