@@ -14,14 +14,6 @@
             "bringToTop": true
         },
         {
-            "projectID": "tycoon_10_casino",
-            "gaIconID": "Icon_20231106006",
-            "displayTitle": "Casino Tycoon",
-            "placeID": 15556647659,
-            "imageURL": "rbxassetid://15558281352",
-            "bringToTop": true
-        },
-        {
             "projectID": "tycoon_11_military",
             "gaIconID": "Icon_20231106011",
             "displayTitle": "Military Fortress Tycoon",
@@ -125,6 +117,14 @@
             "displayTitle": "Jetboard Race Simulator",
             "placeID": 15680541011,
             "imageURL": "rbxassetid://15680738202",
+            "bringToTop": false
+        },
+        {
+            "projectID": "roblox_timer_bomb",
+            "gaIconID": "Icon_TickTockTag",
+            "displayTitle": "Tick Tock Tag",
+            "placeID": 139016416201044,
+            "imageURL": "rbxassetid://123373556468204",
             "bringToTop": true
         }
     ]
