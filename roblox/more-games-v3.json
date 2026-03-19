@@ -10,8 +10,7 @@
             "gaIconID": "Icon_20231106034",
             "displayTitle": "MegaMall Tycoon 2",
             "placeID": 15479520761,
-            "imageURL": "rbxassetid://15510218873",
-            "bringToTop": false
+            "imageURL": "rbxassetid://15510218873"
         },
         {
             "projectID": "tycoon_11_military",
@@ -101,8 +100,9 @@
             "projectID": "tycoon_00_superSpeed",
             "gaIconID": "Icon_SuperSpeedTycoon",
             "displayTitle": "Super Speed Tycoon",
-            "placeID": 8226526459,
-            "imageURL": "rbxassetid://14106129087"
+            "placeID": 116926950011834,
+            "imageURL": "rbxassetid://14106129087",
+            "bringToTop": true
         },
         {
             "projectID": "hideAndSeek_01",
@@ -116,8 +116,7 @@
             "gaIconID": "Icon_JetboardRaceSimulator",
             "displayTitle": "Jetboard Race Simulator",
             "placeID": 15680541011,
-            "imageURL": "rbxassetid://15680738202",
-            "bringToTop": false
+            "imageURL": "rbxassetid://15680738202"
         },
         {
             "projectID": "roblox_timer_bomb",
