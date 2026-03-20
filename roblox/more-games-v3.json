@@ -96,14 +96,7 @@
             "placeID": 7093781698,
             "imageURL": "rbxassetid://14106129544"
         },
-        {
-            "projectID": "tycoon_00_superSpeed",
-            "gaIconID": "Icon_SuperSpeedTycoon",
-            "displayTitle": "Super Speed Tycoon",
-            "placeID": 113250110235887,
-            "imageURL": "rbxassetid://14106129087",
-            "bringToTop": true
-        },
+
         {
             "projectID": "hideAndSeek_01",
             "gaIconID": "Icon_AmongUs",
